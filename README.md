@@ -9,6 +9,10 @@ A straightforward Python implementation of a neural network to solve the XOR pro
 ### 1. The XOR Problem
 The XOR (exclusive OR) problem involves predicting an output based on two binary inputs. For instance, given two switches, XOR determines whether the light should be on or off based on the positions of the switches. This problem is useful for demonstrating neural networks because it cannot be solved with a simple linear model, highlighting the need for more complex structures.
 
+<div>
+  <img src="docs/XOR.png" alt="XOR Truth Table" style="max-width: 100%";>
+</div>
+
 ### 2. Building Blocks of a Neural Network
 Neural networks consist of layers of interconnected nodes or neurons. Each layer processes information and passes it to the next. The network includes:
 
@@ -22,6 +26,10 @@ Neurons are the fundamental units that take input, apply a weighted sum, and use
 Weights are values that determine the importance of each input feature. They are multiplied with the input values and adjusted during training to improve the network's accuracy. Biases are additional parameters added to the weighted sum of inputs. They allow the model to fit the data better by shifting the activation function.
 
 These layers and their neurons work together to transform input data into meaningful results.
+
+<div>
+  <img src="docs/NN.png" alt="A Neural Network Diagram" style="max-width: 100%";>
+</div>
 
 ### 3. Activation Functions
 Activation functions introduce non-linearity into the network, allowing it to learn complex patterns:
