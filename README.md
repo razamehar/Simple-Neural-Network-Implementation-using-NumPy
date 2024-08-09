@@ -6,7 +6,7 @@ A straightforward Python implementation of a neural network to solve the XOR pro
 
 ## The Process
 <div>
-  <img src="docs/process.png" alt="the process" style="max-width: 100%";>
+  <img src="docs/process_1.png" alt="the process" style="max-width: 100%";>
 </div>
 
 ## The Activation Functions
