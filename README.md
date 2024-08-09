@@ -2,7 +2,7 @@
 A simple Python implementation of a neural network to solve the XOR problem using various initialization techniques and activation functions.
 
 ## Overview
-A straightforward Python implementation of a neural network to solve the XOR problem using NumPy. This network is trained via backpropagation and supports various initialization techniques and activation functions.
+A straightforward Python implementation of a neural network to solve the XOR problem using NumPy. This network is trained via backpropagation and supports various initialization methods (Random, He, Xavier) and activation functions (Linear, Sigmoid, ReLU).
 
 ## The Process
 <div>
