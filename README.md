@@ -11,7 +11,7 @@ A straightforward Python implementation of a neural network to solve the XOR pro
 
 ## The Activation Functions
 <div>
-  <img src="docs/act_func.png" alt="the activation fucntions" style="max-width: 100%";>
+  <img src="docs/Act.png" alt="the activation fucntions" style="max-width: 100%";>
 </div>
 
 ## License:
