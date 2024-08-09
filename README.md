@@ -21,9 +21,9 @@ Neural networks consist of layers of interconnected nodes or neurons. Each layer
 - Biases: These are additional parameters added to the weighted sum of inputs. They allow the model to fit the data better by shifting the activation function.
 - Output Layer: Provides the final prediction or decision based on the processed information from the hidden layers.
 
-Neurons are the fundamental units that take input, apply a weighted sum, and use an activation function to produce an output. Parameters, specifically weights and biases, are adjusted during training to improve the network's accuracy.
+**Neurons** are the fundamental units that take input, apply a weighted sum, and use an activation function to produce an output. Parameters, specifically weights and biases, are adjusted during training to improve the network's accuracy.
 
-Weights are values that determine the importance of each input feature. They are multiplied with the input values and adjusted during training to improve the network's accuracy. Biases are additional parameters added to the weighted sum of inputs. They allow the model to fit the data better by shifting the activation function.
+**Weights** are values that determine the importance of each input feature. They are multiplied with the input values and adjusted during training to improve the network's accuracy. Biases are additional parameters added to the weighted sum of inputs. They allow the model to fit the data better by shifting the activation function.
 
 These layers and their neurons work together to transform input data into meaningful results.
 
